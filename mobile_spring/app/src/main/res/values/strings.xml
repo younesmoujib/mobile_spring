@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Volley</string>
+    <string name="navigation_drawer_open">open Volley</string>
+    <string name="navigation_drawer_close">close Volley</string>
+</resources>
